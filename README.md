@@ -1,4 +1,4 @@
-# Setembro-Amarelo
+# :yellow_heart: Setembro-Amarelo
 
 Setembro é mês da campanha de prevenção ao suicídio, conhecido como Setembro Amarelo. 
 
