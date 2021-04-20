@@ -1,5 +1,7 @@
 # :yellow_heart: Setembro-Amarelo
 
+![GitHub language count](https://img.shields.io/github/languages/count/Daniel-RPS/Setembro-Amarelo)
+
 Setembro é mês da campanha de prevenção ao suicídio, conhecido como Setembro Amarelo. 
 
 Esse trabalho é uma pequena contruição que tem o objetivo de analisar os dados sobre suicídio no Brasil de 1985 até 2015, descobrindo insights que alertam sobre como devemos avançar com as campanhas que podem ajudar as pessoas que passam por alguma situação difícil.
